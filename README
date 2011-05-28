@@ -1,0 +1,4 @@
+Hidden friends is a Facebook game written in javascript/jquery. Infact its my first attemp towards anything on client side.
+Random friends are picked and the alphabets are hidden.Guess the name of your friends to complete the level.As the level increases, the number of lives given decreases. Its fun to guess the full names of your friends, especially if you have hundreds of them :)
+Some celebrities names are hardcoded. In actual application, the server sends the friends names and ids as a json object.
+
